@@ -1,0 +1,10 @@
+ancestor: null
+releases:
+  1.0.0:
+    changes:
+      bugfixes:
+      major_changes:
+      - First Sol1 version, adapted from Aussielunix receptor role.
+      minor_changes:
+    fragments:
+    release_date: '2023-05-22'

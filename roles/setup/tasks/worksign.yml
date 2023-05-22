@@ -1,0 +1,10 @@
+---
+
+- name: Distribute public work signing key
+  ansible.builtin.template:
+    src: "work-public-key.pem.j2"
+    dest: "{{ receptor_tls_dir }}/work-public-key.pem"
+    mode: "00640"
+    owner: "{{ receptor_user }}"
+    group: "{{ receptor_group }}"
+  no_log: "{{ awx_no_log }}"

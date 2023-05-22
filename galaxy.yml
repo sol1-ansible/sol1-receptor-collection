@@ -1,0 +1,14 @@
+---
+namespace: ansible
+name: sol1-receptor
+version: 1.0.0
+readme: README.md
+authors:
+  - Ansible
+description: Receptor installer
+license_file: LICENSE
+tags:
+  - networking
+  - infrastructure
+  - receptor
+repository: https://github.com/sol1-ansible/sol1-receptor-collection
