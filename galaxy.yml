@@ -1,10 +1,10 @@
 ---
-namespace: ansible
-name: sol1-receptor
+namespace: sol1-ansible
+name: receptor
 version: 1.0.0
 readme: README.md
 authors:
-  - Ansible
+  - Sol1
 description: Receptor installer
 license_file: LICENSE
 tags:
