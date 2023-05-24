@@ -1,7 +1,7 @@
 ---
-namespace: sol1-ansible
-name: receptor
-version: 1.0.1
+namespace: "sol1-ansible"
+name: "receptor"
+version: "1.0.1"
 readme: README.md
 authors:
   - Sol1
