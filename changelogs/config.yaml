@@ -27,6 +27,6 @@ sections:
   - Bugfixes
 - - known_issues
   - Known Issues
-title: Ansible.Receptor
+title: sol1-ansible.receptor
 trivial_section_name: trivial
 use_fqcn: true
