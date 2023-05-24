@@ -1,5 +1,5 @@
 ==============================
-Ansible.Receptor Release Notes
+sol1-ansible.receptor Release Notes
 ==============================
 
 .. contents:: Topics
